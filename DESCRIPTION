@@ -1,10 +1,10 @@
 Package: shinyMCE
 Type: Package
 Title: Use tinyMCE editor in Shiny apps
-Version: 0.1
+Version: 0.2
 Date: 2014-05-13
 Author: Misha Lisovich
-Maintainer: Misha Lisovich <mikhail.lisovich@gmail.com>
+Maintainer: Bernie Caessens <bernie@poolstok.be>
 Description: shinyMCE adds ability to use tinyMCE WYSWYG editor as a component
     in Shiny apps.
 License: MIT
@@ -15,4 +15,4 @@ Depends:
 Imports:
     assertthat,
     shiny (>= 0.8.0.99)
-URL: http://mul118.github.io/shinyMCE/
+URL: http://beresolved.github.io/shinyMCE/
